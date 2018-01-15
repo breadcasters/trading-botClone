@@ -1,4 +1,4 @@
-# Cryptocurrency Trading Bot
+# Cryptocurrency Trading Bot - Modified by breadcasters starting 14-Jan-2018
 
 This bot is a work-in-progress and development can be followed on the Cryptocurrency Trading YouTube channel: https://youtube.com/cryptocurrencytrading
 
